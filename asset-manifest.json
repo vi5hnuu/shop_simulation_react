@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react_meals_prac_proj/static/css/main.c50f2a66.css",
+    "main.js": "/react_meals_prac_proj/static/js/main.fd685c4f.js",
+    "static/media/meals.jpg": "/react_meals_prac_proj/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/react_meals_prac_proj/index.html",
+    "main.c50f2a66.css.map": "/react_meals_prac_proj/static/css/main.c50f2a66.css.map",
+    "main.fd685c4f.js.map": "/react_meals_prac_proj/static/js/main.fd685c4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c50f2a66.css",
+    "static/js/main.fd685c4f.js"
+  ]
+}
