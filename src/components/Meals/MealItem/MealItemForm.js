@@ -1,6 +1,6 @@
 import classes from './MealItemForm.module.css'
 import Input from './../../UI/Input'
-import { useRef, useState } from 'react'
+import { useRef } from 'react'
 
 const MealItemForm = (props) => {
     const amountInputRef = useRef()

@@ -68,3 +68,16 @@
   background-color: #efaaaa !important;
   border-bottom: 2px solid #d20808 !important;
 }
+
+@media (max-width: 618px) {
+  .control label {
+    font-size: 0.8rem;
+    flex: 5;
+  }
+  .control input {
+    flex: 5;
+  }
+  .actions {
+    justify-content: center;
+  }
+}
